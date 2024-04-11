@@ -1,6 +1,6 @@
 <div><img src="https://github.com/mickygalaxy/I-am-Ayush-Sahu-/blob/main/Frame%20new11.jpg" height = "500px" width = "100%"/></div>
 
-<h1 align = "center">
+<h1 align = "center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Ayush+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 <br>
